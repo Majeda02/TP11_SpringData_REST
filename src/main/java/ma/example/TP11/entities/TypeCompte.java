@@ -1,0 +1,5 @@
+package ma.example.TP11.entities;
+
+public enum TypeCompte {
+    COURANT, EPARGNE
+}
